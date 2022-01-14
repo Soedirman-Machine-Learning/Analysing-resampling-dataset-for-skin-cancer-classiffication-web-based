@@ -1,1 +1,0 @@
-# resampling-skin-lesion-detection

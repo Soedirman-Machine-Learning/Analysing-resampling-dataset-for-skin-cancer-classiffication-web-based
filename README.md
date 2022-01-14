@@ -1,5 +1,6 @@
 # skin-cancer-classifier
     Web based prototype skin cancer classification using CNN models that classifiying 7 class of skin cancer based on lesions skin condition.
+    Made by : Ali Rohman (H1A018021) Teknik Elektro Universitas Jenderal Soedirman
 
 This repository contains all the models I have also created flask web based UI for the classification prediction.
 
